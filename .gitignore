@@ -1,0 +1,4 @@
+brain/venv/
+brain/__pycache__/
+body/node_modules/
+body/.next/
